@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Bin Arbaid logo">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0d4d35"/>
+      <stop offset="100%" stop-color="#196d46"/>
+    </linearGradient>
+  </defs>
+  <path d="M256 34 L402 154 L402 346 A46 46 0 0 1 356 392 H156 A46 46 0 0 1 110 346 V154 Z" fill="url(#g1)" stroke="#1a1a1a" stroke-width="12"/>
+  <path d="M154 170 H358 L310 258 H202 Z" fill="#0d4d35" opacity="0.3"/>
+  <path d="M172 176 L340 176 L304 260 H208 Z" fill="none" stroke="#0d4d35" stroke-width="8"/>
+  <g fill="#d9b86f" font-family="Georgia, 'Times New Roman', serif" font-weight="700" text-anchor="middle">
+    <text x="256" y="244" font-size="150" transform="skewX(-10)">ب</text>
+    <text x="252" y="248" font-size="130" transform="skewX(-10)">ن</text>
+  </g>
+  <path d="M130 380 H382" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+</svg>
